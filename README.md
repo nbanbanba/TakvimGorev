@@ -1,3 +1,2 @@
-# TakvimGorev
-# TakvimGorev
-# TakvimGorev
+#Takvim Görev
+Basit bir ajanda denemesi. 
